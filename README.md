@@ -1,7 +1,7 @@
 # Hi there, I'm Diogo 👋
 
 ## 😉About me:
-I'm a UX/UI designer in training based in Não-Me-Toque, RS - Brazil. 
+I'm a UX/UI designer based in Não-Me-Toque, RS - Brazil. 
 
 I love talking about technology, design, and well-designed products..
 
